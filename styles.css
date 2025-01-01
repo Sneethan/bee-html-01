@@ -1,0 +1,23 @@
+h1 {
+  align-content: center;  
+  justify-content: center;
+  text-align: center;
+}
+p {
+    align-content: center;  
+    justify-content: center;
+    text-align: center;
+  }
+  .div {
+    align-content: center;  
+    justify-content: center;
+    display: flex;
+  }
+  .img {
+    align-content: center;  
+    justify-content: center;
+    display: flex;
+    border-radius: 0%;
+    height: 400px;
+    width: 320px;
+  }
